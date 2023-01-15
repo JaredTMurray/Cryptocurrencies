@@ -24,5 +24,9 @@ In the Challenge I have used unsupervised machine learning to complete the follo
       - To creating a 3D-Scatter with the PCA data and the clusters, I create the six_clusters to hold the values form df_crypto_pca dataframe
       - To plotting the 3D-Scatter with x="PC 1", y="PC2" and z="PC 3" (See In 21 and image below)
       - ![](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/3D_Scater_plot.png)
+      - Transform PCA data to a DataFrame plot_df = pd.DataFrame(data=coin_pca, columns=["TotalCoinSupply", "TotalCoinsMined"])
+      - Create a hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply". 
+      - The coin_clusters.hvplot.scatter(x="TotalCoinSupply", y="TotalCoinsMined")
+      - 1[](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/2D_Scater_plot.png)
 
 ## Summary:
