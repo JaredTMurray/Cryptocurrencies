@@ -22,7 +22,7 @@ In the Challenge I have used unsupervised machine learning to complete the follo
 
 -	Part 4: Visualizing Cryptocurrencies Results (See [crypto_clustering](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/crypto_clustering.ipynb))
       - To creating a 3D-Scatter with the PCA data and the clusters, I create the six_clusters to hold the values form df_crypto_pca dataframe
-      - To plotting the 3D-Scatter with x="PC 1", y="PC2" and z="PC 3" ( See In 21 and image below
+      - To plotting the 3D-Scatter with x="PC 1", y="PC2" and z="PC 3" (See In 21 and image below)
       - ![](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/3D_Scater_plot.png)
 
 ## Summary:
