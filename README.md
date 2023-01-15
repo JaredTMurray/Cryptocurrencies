@@ -8,8 +8,7 @@ In the Challenge I have used unsupervised machine learning to complete the follo
 
 ## Results:
 -	Part 1: Preprocessing the Data for PCA (See [crypto_clustering](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/crypto_clustering.ipynb))
-   
-   -Forstly , I prepp the data by read the [cryptp_data.csv](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/crypto_data.csv) file into the dataframe df_crypto 
+      - Firstly, I prep the data by read the [cryptp_data.csv](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/crypto_data.csv) file into the dataframe df_crypto. I drop all the null values and standardize the data with StandardScaler in the variable crypto_scaled.
 
 -	Part 2: Reducing Data Dimensions Using PCA
 
