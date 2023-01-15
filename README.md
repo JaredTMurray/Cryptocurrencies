@@ -30,3 +30,6 @@ In the Challenge I have used unsupervised machine learning to complete the follo
       - ![](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/2D_Scater_plot.png)
 
 ## Summary:
+- The crypto currency which is the most tradeable are bitcoin, ethereum, litecoin and monero
+- Note I ran into programming errors while merging the dataframes.
+- 
