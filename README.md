@@ -27,6 +27,6 @@ In the Challenge I have used unsupervised machine learning to complete the follo
       - Transform PCA data to a DataFrame plot_df = pd.DataFrame(data=coin_pca, columns=["TotalCoinSupply", "TotalCoinsMined"])
       - Create a hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply". 
       - The coin_clusters.hvplot.scatter(x="TotalCoinSupply", y="TotalCoinsMined")
-      - 1[](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/2D_Scater_plot.png)
+      - ![](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/2D_Scater_plot.png)
 
 ## Summary:
