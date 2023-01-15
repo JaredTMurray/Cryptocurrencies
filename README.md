@@ -8,9 +8,13 @@ In the Challenge I have used unsupervised machine learning to complete the follo
 
 ## Results:
 -	Part 1: Preprocessing the Data for PCA (See [crypto_clustering](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/crypto_clustering.ipynb))
-   --I prep the data 
+   
+   -Forstly , I prepp the data by read the [cryptp_data.csv](https://github.com/JaredTMurray/Cryptocurrencies/blob/main/crypto_data.csv) file into the dataframe df_crypto 
+
 -	Part 2: Reducing Data Dimensions Using PCA
+
 -	Part 3: Clustering Cryptocurrencies Using K-means
+
 -	Part 4: Visualizing Cryptocurrencies Results
 
 ## Summary:
